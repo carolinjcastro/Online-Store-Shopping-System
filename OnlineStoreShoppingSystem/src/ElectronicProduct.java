@@ -1,6 +1,5 @@
 /****************************************************************
  *  Carolin Castro, cjc494@rutgers.edu
- *  CS 102 (section 06) - Final Homework
  *  [Creating a subclass of "Product" called "ElectronicProduct"
  *  with additional attributes]
  ****************************************************************/ 
