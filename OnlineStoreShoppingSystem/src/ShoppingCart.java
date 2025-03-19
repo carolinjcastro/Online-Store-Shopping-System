@@ -1,6 +1,5 @@
 /****************************************************************
- *  Carolin Castro, cjc494@rutgers.edu
- *  CS 102 (section 06) - Final Homework
+ *  Julie Castro, cjc494@rutgers.edu
  *  [Defining an interface with methods for shopping and checkout]
  ****************************************************************/ 
 public interface ShoppingCart {
