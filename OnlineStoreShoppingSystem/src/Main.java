@@ -1,6 +1,5 @@
 /****************************************************************
  *  Carolin Castro, cjc494@rutgers.edu
- *  CS 102 (section 06) - Final Homework
  *  [Creating a Main class that creates two users and adds items to 
  *  the shopping cart and checkout cart]
  ****************************************************************/ 
