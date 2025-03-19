@@ -1,5 +1,5 @@
 /****************************************************************
- *  Carolin Castro, cjc494@rutgers.edu
+ *  Julie Castro, cjc494@rutgers.edu
  *  [Creating a subclass of "Product" called "ClothingProduct"
  *  with additional attributes]
  ****************************************************************/ 
