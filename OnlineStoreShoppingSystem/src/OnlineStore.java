@@ -1,6 +1,5 @@
 /****************************************************************
- *  Carolin Castro, cjc494@rutgers.edu
- *  CS 102 (section 06) - Final Homework
+ *  Julie Castro, cjc494@rutgers.edu
  *  [Creating an "OnlineStore" class that manages a list of 
  *  products and user shopping carts]
  ****************************************************************/
