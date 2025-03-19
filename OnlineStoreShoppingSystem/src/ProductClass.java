@@ -1,6 +1,5 @@
 /****************************************************************
  *  Julie Castro, cjc494@rutgers.edu
- *  CS 102 (section 06) - Final Homework
  *  [Creating a base class for an online store]
  ****************************************************************/
 public class ProductClass {
